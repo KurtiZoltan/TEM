@@ -108,14 +108,14 @@
 		\begin{figure}[H]
 			\centering
 			\includegraphics[scale=0.5]{si.pdf}
-			\caption{A szilícium diffrakciós képe és a kiválasztott csúcsok. Föntről lefelé a diffrakciós csúcsok O, A, B és C.}
+			\caption{A szilícium diffrakciós képe és a kiválasztott csúcsok. Föntről lefelé a csúcsok O, A, B és C.}
 			\label{si}
 		\end{figure}
 	\section{Gallium-nitrid}
 		\begin{figure}[H]
 			\centering
 			\includegraphics[scale=0.5]{gan.pdf}
-			\caption{A gallium-nitrid diffrakciós képe és a kiválasztott csúcsok. Föntről lefelé a diffrakciós csúcsok O, A, B és C.}
+			\caption{A gallium-nitrid diffrakciós képe és a kiválasztott csúcsok. Föntről lefelé a csúcsok O, A, B és C.}
 			\label{gan}
 		\end{figure}
 	\section{Közös kiértékelés}
